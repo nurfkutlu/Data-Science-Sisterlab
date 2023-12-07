@@ -11,4 +11,5 @@
  - [Data Frames](Exercises/Class/02-03.12.2023-dataFrames.ipynb)
  - [Numpy](Exercises/Class/02-03.12.2023-numpy.ipynb)
  - [Pandas](Exercises/Class/02-03.12.2023-pandas.ipynb)
+ - [Week2-HW](Exercises/HW/Week2)
 
