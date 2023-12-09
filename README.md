@@ -6,7 +6,7 @@
 - [Week1-HW](Exercises/HW/week-1-exercise.ipynb)
 
  ## Week 2
- 
+
  - [Classes](Exercises/Class/02-02.12.2023-Classes.ipynb)
  - [Datatypes](Exercises/Class/02-02.12.2023-datatypes&Classes.ipynb)
  - [Data Frames](Exercises/Class/02-03.12.2023-dataFrames.ipynb)
@@ -16,5 +16,5 @@
 
  ## Week 3
 
- -[Week3-HW-İris](Exercises/HW/Week3/irisDataSet.ipynb)
+ - [Week3-HW-İris](Exercises/HW/Week3/irisDataSet.ipynb)
 
