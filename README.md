@@ -20,7 +20,7 @@
  - [Chart Types](Exercises/HW/Week3/Chart_Types.ipynb)
  - [İris Data Set](Exercises/HW/Week3/irisDataSet.ipynb)
  - [Week3- HW- ](Exercises/HW/Week3/week-3-exercise.ipynb)
- - [Data Visualization](Exercises/Class/03-10.12.2023-Data Visualisation.ipynb) 
+ - [Data Visualization](Exercises/Class/03-10.12.2023-Data_Visualisation.ipynb) 
  - [Birds Data Set](Exercises/Class/03-10.12.2023-Birds.ipynb)
-
+ - []
 
