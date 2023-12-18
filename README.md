@@ -23,3 +23,9 @@
  - [Birds Data Set](Exercises/Class/03-10.12.2023-Birds.ipynb)
  - [Week3-HW Sleep Health and Lifestyle Dataset](Exercises/HW/Week3/Sleep_Health_and_Lifestyle_Dataset.ipynb)
 
+## Week 4 
+
+- [Web_Scrabing](Exercises/Class/04-16.12.2023-Web_Scrabing.ipynb)
+- [Web_Scrabing_Exercise_Beatiful-Soap-Job](Exercises/Class/04-16.12.2023-WScrabing_Exersize.ipynb)
+- [API_intro](Exercises/Class/04-17.12.2023-API_intro.ipynb)
+- [API_Exercise-youtube](Exercises/Class/04-17.12.2023-API_intro.ipynb)
