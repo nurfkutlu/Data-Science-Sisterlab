@@ -29,4 +29,4 @@
 - [Web_Scrabing_Exercise_Beatiful-Soap-Job](Exercises/Class/04-16.12.2023-WScrabing_Exersize.ipynb)
 - [API_intro](Exercises/Class/04-17.12.2023-API_intro.ipynb)
 - [API_Exercise-youtube](Exercises/Class/04-17.12.2023-API_intro.ipynb)
-- [API-NYTimes_Books](Exercises/HW/Week4/API_NY_Times_Books.ipynb)
+- [Week4-HW API-NYTimes_Books](Exercises/HW/Week4/API_NY_Times_Books.ipynb)
