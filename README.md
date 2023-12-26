@@ -35,3 +35,4 @@
 
 - [Youtube API](Exercises/Class/05-23.12.2023-Youtube.ipynb)
 - [Youtube API project as new Project](https://github.com/nurfkutlu/Youtube_API_Project)
+- [Friends API](https://github.com/nurfkutlu/Friends_API)
