@@ -30,3 +30,8 @@
 - [API_intro](Exercises/Class/04-17.12.2023-API_intro.ipynb)
 - [API_Exercise-youtube](Exercises/Class/04-17.12.2023-API_intro.ipynb)
 - [Week4-HW API-NYTimes_Books](Exercises/HW/Week4/API_NY_Times_Books.ipynb)
+
+## Week 5 
+
+- [Youtube API](Exercises/Class/05-23.12.2023-Youtube.ipynb)
+- [Youtube API project as new Project](https://github.com/nurfkutlu/Youtube_API_Project)
