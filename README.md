@@ -36,3 +36,10 @@
 - [Youtube API](Exercises/Class/05-23.12.2023-Youtube.ipynb)
 - [Youtube API project as new Project](https://github.com/nurfkutlu/Youtube_API_Project)
 - [Friends API](https://github.com/nurfkutlu/Friends_API)
+
+## Week 6
+
+- [Machine Learning Intro](Exercises/Class/06-30.12.2023-Machine_learning_intro.ipynb)
+- [Regression Analysis Intro](Exercises/Class/06-30.12.2023-Regression_intro.ipynb)
+- [Regression Analysis Example](Exercises/Class/06-31.12.2023-Regression_Example.ipynb)
+- [Week6-HW-Regression Analysis _FuelConsumption_](Exercises/HW/Week6/Regression_Examples.ipynb)
