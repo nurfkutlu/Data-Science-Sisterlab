@@ -43,3 +43,11 @@
 - [Regression Analysis Intro](Exercises/Class/06-30.12.2023-Regression_intro.ipynb)
 - [Regression Analysis Example](Exercises/Class/06-31.12.2023-Regression_Example.ipynb)
 - [Week6-HW-Regression Analysis _FuelConsumption_](Exercises/HW/Week6/Regression_Examples.ipynb)
+
+## Week 7
+
+- [Model Evaluation in Regression Models](Exercises/Class/07-06.01.2024-Model_Evaluation.ipynb)
+- [Methods and Exercise by model Evaluations](Exercises/Class/07-06.01.2024-Methods&Exercise.ipynb)
+- [Polynamial Regression](Exercises/Class/07-06.01.2024-Polynomial_Regresion.ipynb)
+- [Nonlinear Regression](Exercises/Class/07-06.01.2024-Nonlinear_Regression.ipynb)
+- [KNN-Classification](Exercises/Class/07-07.01.2024-KNN-Classification.ipynb)
