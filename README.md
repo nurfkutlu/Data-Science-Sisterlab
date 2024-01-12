@@ -46,8 +46,12 @@
 
 ## Week 7
 
-- [Model Evaluation in Regression Models](Exercises/Class/07-06.01.2024-Model_Evaluation.ipynb)
-- [Methods and Exercise by model Evaluations](Exercises/Class/07-06.01.2024-Methods&Exercise.ipynb)
-- [Polynamial Regression](Exercises/Class/07-06.01.2024-Polynomial_Regresion.ipynb)
-- [Nonlinear Regression](Exercises/Class/07-06.01.2024-Nonlinear_Regression.ipynb)
-- [KNN-Classification](Exercises/Class/07-07.01.2024-KNN-Classification.ipynb)
+- [ML-Model Evaluation in Regression Models](Exercises/Class/07-06.01.2024-Model_Evaluation.ipynb)
+- [ML-Methods and Exercise by model Evaluations](Exercises/Class/07-06.01.2024-Methods&Exercise.ipynb)
+- [ML-Polynamial Regression](Exercises/Class/07-06.01.2024-Polynomial_Regresion.ipynb)
+- [ML-Nonlinear Regression](Exercises/Class/07-06.01.2024-Nonlinear_Regression.ipynb)
+- [ML-KNN-Classification](Exercises/Class/07-07.01.2024-KNN-Classification.ipynb)
+- [ML-Evaluation Metrics](Exercises/Class/07-10.01.2024-Evaluation_Metrics.ipynb)
+- [ML-Desicion Trees](Exercises/Class/07-10.01.2024-decision-trees.ipynb)
+- [ML-Exersize](Exercises/Class/07-10.01.2024-Example.ipynb)
+- [Week7-HW-KNN-Musrooms](Exercises/HW/Week7/KNN-Mushrooms.ipynb)
